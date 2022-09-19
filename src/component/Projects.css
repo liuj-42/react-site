@@ -26,4 +26,8 @@
     transition: max-width 0.25s, opacity 0.25s, margin 0.25s;
 } 
 
+.icon {
+    height: 40px;
+}
+
 
