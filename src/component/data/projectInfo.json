@@ -1,0 +1,46 @@
+{
+    "data":[
+        {
+            "id":1,
+            "name": "Personal Website(s)",
+            "sub": "Written in HTML, then Vue, then React",
+            "desc":"Designed and developed a personal website hosted through Netlify.",
+            "links": [],
+            "filters": ["React", "Vue", "JavaScript", "HTML", "CSS", "Git"]
+        },
+        {
+            "id":2,
+            "name": "HASSPathways",
+            "sub":"",
+            "desc":"Developed a website for the HASS Pathways program at Rensselaer Polytechnic Institute using the Vue framework",
+            "links": [],
+            "filters": ["Vue", "JavaScript", "HTML", "CSS", "Git"]
+        },
+        {
+            "id":3,
+            "name": "ITWS Hackathon",
+            "sub":"Hackathon",
+            "desc":"Participated in a 48-hour hackathon to create a website that visualizes data on the origin of international students in Ukraine using the Angular framework ",
+            "links": [],
+            "filters": ["Angular", "TypeScript", "HTML", "CSS"]
+        },
+        {
+            "id":4,
+            "name": "Iron Therapy",
+            "sub": "Fitness Tracker Website",
+            "desc":"Developed a website for a fitness tracker using the Angular framework",
+            "links": [],
+            "filters": ["Angular", "TypeScript", "HTML", "CSS"]
+        },
+        {
+            "id":5,
+            "name": "Crypto Arbitrage Bot",
+            "sub": "",
+            "desc": "",
+            "links": ["https://github.com/crypto-arbitrage-bot"],
+            "filters": ["Python"]
+        }
+    ]
+    
+}
+    
