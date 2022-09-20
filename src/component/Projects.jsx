@@ -15,7 +15,12 @@ function Projects() {
         "TypeScript": <li><img className="icon" src="./ts.png"></img></li>,
         "Python": <li><img className="icon" src="./python.png"></img></li>,
     }
-    let res = projectInfo.data.map( (project) => {
+
+    
+
+
+
+    projectInfo.data.map( (project) => {
         projects.push(
             <div key={project.id} className="project">
                 <div className="header">
@@ -33,7 +38,7 @@ function Projects() {
     })
     // return <div> {projects} </div>
 
-    return <div className="projectsList">{projects}</div>
+    return <div className="projectsList">{projects}</div> 
 }
 
 export default Projects;

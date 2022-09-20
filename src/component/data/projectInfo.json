@@ -11,7 +11,7 @@
         {
             "id":2,
             "name": "HASSPathways",
-            "sub":"",
+            "sub":"First Open Source Project I worked on",
             "desc":"Developed a website for the HASS Pathways program at Rensselaer Polytechnic Institute using the Vue framework",
             "links": [],
             "filters": ["Vue", "JavaScript", "HTML", "CSS", "Git"]
@@ -19,7 +19,7 @@
         {
             "id":3,
             "name": "ITWS Hackathon",
-            "sub":"Hackathon",
+            "sub":"Hackathon + co-author for a research paper",
             "desc":"Participated in a 48-hour hackathon to create a website that visualizes data on the origin of international students in Ukraine using the Angular framework ",
             "links": [],
             "filters": ["Angular", "TypeScript", "HTML", "CSS"]
@@ -35,8 +35,8 @@
         {
             "id":5,
             "name": "Crypto Arbitrage Bot",
-            "sub": "",
-            "desc": "",
+            "sub": "Working in a Scrum Team with 2-week sprints",
+            "desc": "Worked in a Scrum Team to create a product in a period of 8 2-week sprints. Created a python program to find profitable trades between cryptocurrency exchanges",
             "links": ["https://github.com/crypto-arbitrage-bot"],
             "filters": ["Python"]
         }

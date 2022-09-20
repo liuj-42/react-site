@@ -1,5 +1,6 @@
 import './App.css'
 import Projects from './component/Projects'
+import Dropdown from './component/Dropdown'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
           This is a list of my past projects
         </p>
       </div>
+      <Dropdown/>
 
       <Projects/>
     </div>
