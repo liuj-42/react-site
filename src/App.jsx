@@ -19,9 +19,12 @@ function App() {
           This is a list of my past projects
         </p>
       </div>
-      <Checkboxes setSelected={setSelected}/>
+      <div id="projects">
+        <Checkboxes setSelected={setSelected}/>
 
-      <Projects selected={selected}/>
+        <Projects selected={selected}/>
+      </div>
+
     </div>
     
   )

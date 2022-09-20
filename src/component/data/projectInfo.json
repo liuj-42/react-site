@@ -6,7 +6,7 @@
             "sub": "Written in HTML, then Vue, then React",
             "desc":"Designed and developed a personal website hosted through Netlify.",
             "links": [],
-            "filters": ["React", "Vue", "JavaScript", "HTML", "CSS", "Git"],
+            "icons": ["React", "Vue", "JavaScript", "HTML", "CSS", "Git"],
             "tags": ["Web"]
         },
         {
@@ -15,7 +15,7 @@
             "sub":"Open Source Project in Vue",
             "desc":"Developed a website for the HASS Pathways program at Rensselaer Polytechnic Institute using the Vue framework",
             "links": [],
-            "filters": ["Vue", "JavaScript", "HTML", "CSS", "Git"],
+            "icons": ["Vue", "JavaScript", "HTML", "CSS", "Git"],
             "tags": ["Web"]
         },
         {
@@ -24,7 +24,7 @@
             "sub":"Hackathon + co-author for a research paper",
             "desc":"Participated in a 48-hour hackathon to create a website that visualizes data on the origin of international students in Ukraine using the Angular framework ",
             "links": [],
-            "filters": ["Angular", "TypeScript", "HTML", "CSS"],
+            "icons": ["Angular", "TypeScript", "HTML", "CSS"],
             "tags": ["Web", "Other"]
         },
         {
@@ -33,7 +33,7 @@
             "sub": "Fitness Tracker Website",
             "desc":"Developed a website for a fitness tracker using the Angular framework",
             "links": [],
-            "filters": ["Angular", "TypeScript", "HTML", "CSS"],
+            "icons": ["Angular", "TypeScript", "HTML", "CSS"],
             "tags": ["Web"]
         },
         {
@@ -42,7 +42,7 @@
             "sub": "Working in a Scrum Team with 2-week sprints",
             "desc": "Worked in a Scrum Team to create a product in a period of 8 2-week sprints. Created a python program to find profitable trades between cryptocurrency exchanges",
             "links": ["https://github.com/crypto-arbitrage-bot"],
-            "filters": ["Python"],
+            "icons": ["Python"],
             "tags": ["Other"]
         }
     ]
