@@ -1,7 +1,7 @@
 import projectInfo from './data/projectInfo.json'
 import './Projects.css'
 
-function Projects() {
+function Projects({selected}) {
     let projects = []
     console.log(projectInfo)
     const images = {
@@ -15,10 +15,6 @@ function Projects() {
         "TypeScript": <li><img className="icon" src="./ts.png"></img></li>,
         "Python": <li><img className="icon" src="./python.png"></img></li>,
     }
-
-    
-
-
 
     projectInfo.data.map( (project) => {
         projects.push(
@@ -38,7 +34,7 @@ function Projects() {
     })
     // return <div> {projects} </div>
 
-    return <div className="projectsList">{projects}</div> 
+    return <div className="projectsList">{projects} <div id="selected">selected: {selected}</div></div> 
 }
 
 export default Projects;

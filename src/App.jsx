@@ -1,8 +1,12 @@
 import './App.css'
 import Projects from './component/Projects'
-import Dropdown from './component/Dropdown'
+import Checkboxes from './component/Checkboxes'
+import React, { useState } from 'react';
 
 function App() {
+
+  const [selected, setSelected] = useState(["Web", "Other"]);
+
 
   return (
     <div className="App">
@@ -15,9 +19,9 @@ function App() {
           This is a list of my past projects
         </p>
       </div>
-      <Dropdown/>
+      <Checkboxes setSelected={setSelected}/>
 
-      <Projects/>
+      <Projects selected={selected}/>
     </div>
     
   )

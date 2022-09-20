@@ -1,0 +1,15 @@
+
+.list-container {
+    display: flex;
+    justify-content: center;
+}
+
+.checkList {
+    width: fit-content;
+    margin: 0 auto;
+    outline: 1px solid green;
+}
+
+.checkList h2 {
+
+}
