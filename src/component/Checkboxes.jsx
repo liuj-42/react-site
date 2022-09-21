@@ -30,7 +30,7 @@ function Checkboxes({setSelected}) {
         {checkList.map((item, index) => (
           <div key={index}>
             <input id={item} value={item} type="checkbox" onChange={handleCheck} defaultChecked/>
-            <label for={item} className={isChecked(item)}>{item}</label>
+            <label htmlFor={item} className={isChecked(item)}>{item}</label>
           </div>
         ))}
       </div>

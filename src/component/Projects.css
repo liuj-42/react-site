@@ -1,9 +1,13 @@
 .projectsList {
-    display: flex;
+    /* display: flex; */
     width: 75vw;
     margin: 0 auto;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     text-align: center;
+
+    display: flex;
+    grid-template-rows: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
 }
 
 .project {
@@ -11,11 +15,10 @@
     text-align: center;
 }
 .show {
-    animation: fadeIn 0.5s;
+    animation: fadeIn 0.125s;
 }
 .hide {
-    animation: fadeOut 0.5s;
-    display:none;
+    animation: fadeOut 0.25s;
 }
 
 @keyframes fadeIn {
