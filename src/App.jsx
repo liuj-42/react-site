@@ -1,6 +1,6 @@
 import './App.css'
-import Projects from './component/Projects'
-import Checkboxes from './component/Checkboxes'
+import Projects from './components/Projects'
+import Checkboxes from './components/Checkboxes'
 import React, { useState } from 'react';
 
 function App() {
