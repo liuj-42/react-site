@@ -11,12 +11,12 @@ function App() {
   return (
     <div className="App">
       <div>
-        <h1>Past Projects</h1>
+        {/* <h1>Past Projects</h1> */}
         <div className="card">
 
         </div>
         <p className="gray">
-          This is a list of my past projects
+          {/* This is a list of my past projects */}
         </p>
       </div>
       <div id="projects">

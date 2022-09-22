@@ -24,7 +24,7 @@
             "sub":"Hackathon + co-author for a research paper",
             "desc":"Participated in a 48-hour hackathon to create a website that visualizes data on the origin of international students in Ukraine using the Angular framework ",
             "links": [],
-            "icons": ["Angular", "TypeScript", "HTML", "CSS"],
+            "icons": ["Angular", "TypeScript", "HTML", "CSS", "Git"],
             "tags": ["Web", "Other"]
         },
         {
@@ -42,7 +42,7 @@
             "sub": "Working in a Scrum Team with 2-week sprints",
             "desc": "Worked in a Scrum Team to create a product in a period of 8 2-week sprints. Created a python program to find profitable trades between cryptocurrency exchanges",
             "links": ["https://github.com/crypto-arbitrage-bot"],
-            "icons": ["Python"],
+            "icons": ["Python", "Git"],
             "tags": ["Other"]
         }
     ]
